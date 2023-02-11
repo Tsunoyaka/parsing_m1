@@ -7,6 +7,6 @@ git clone <https_key>
 3. Установка библиотек
     `pip install -r requirements.txt`
 4. Создание базы данных
-    `createdb {name your db}`
+    `createdb {your db name}`
 5. Запустите код
 
