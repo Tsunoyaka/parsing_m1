@@ -1,0 +1,14 @@
+beautifulsoup4==4.11.2
+certifi==2022.12.7
+charset-normalizer==3.0.1
+future==0.18.3
+idna==3.4
+lxml==4.9.2
+peewee==3.15.4
+pefile==2021.9.3
+pewee==0.1.0.dev9
+psycopg2-binary==2.9.5
+python-decouple==3.7
+requests==2.28.2
+soupsieve==2.3.2.post1
+urllib3==1.26.14
